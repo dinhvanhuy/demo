@@ -1,15 +1,7 @@
-# Demo
+## Try it
 
-A demo repository for [My JSON Server](https://my-json-server.typicode.com) (alpha)
+[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
-### Try it
+## Use your own data
 
-[https://my-json-server.typicode.com/__typicode/demo__](https://my-json-server.typicode.com/typicode/demo)
-
-### Get your own
-
-Create a [`db.json`](db.json) file in a repository or fork this project, then simply visit:
-
-```
-https://my-json-server.typicode.com/<your-username>/<your-repo>
-```
+Fork it and change `db.json` values or create a repo with a `db.json` file.
